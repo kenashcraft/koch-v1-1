@@ -4,7 +4,7 @@ These instructions assume that you have already [acquired and 3D printed all of 
 
 ## Hardware
 
-The motors and idlers ship with various screws, nuts, and bushings.  They are tiny and can be challenging to differentiate.  Take a few minutes to sort them into bins or cups using the image below as a reference.
+The motors and idlers ship with various screws, nuts, and bushings.  They are tiny and can be challenging to differentiate.  Take a few minutes to sort them into bins/cups/bowls using the image below as a reference.
 
 **Tip: use tweezers to handle the screws.**
 ![Hardware](./img/Hardware.png)
@@ -21,7 +21,7 @@ From left to right:<br/>
 Add the FPX330-S01 frame to the first XL330.
 
 ![Step 1](./img/step1-animation.gif)
-(TODO: Replace this with a proper export.  This is a screen grab from the YouTube video.)
+(TODO: Replace this with a proper export.  This is a screen grab from the YouTube video.  Also, I think those are the wrong size screws.)
 
 Gather the parts:
 
